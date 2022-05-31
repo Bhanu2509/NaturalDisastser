@@ -1,0 +1,13 @@
+1.
+
+C:\Users\Appala\Desktop\django2\natural_disaster_management_system_django>virtualenv env
+
+
+2.
+
+C:\Users\Appala\Desktop\django2\natural_disaster_management_system_django>cd env/scripts>activate
+
+C:\Users\Appala\Desktop\django2\natural_disaster_management_system_django>pip install django
+
+C:\Users\Appala\Desktop\django2\natural_disaster_management_system_django>python manage.py migrate
+
